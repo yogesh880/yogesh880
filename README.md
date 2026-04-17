@@ -1,5 +1,5 @@
 # 💫 About Me:
-Detail-oriented Full Stack Developer with 2+ years of experience building high-performance web applications <br>using the MERN stack. Skilled in designing scalable REST APIs, optimizing Oracle PL/SQL procedures, and <br>collaborating with Agile teams. Passionate about clean code, modern architecture, and solving real-world <br>problems. 
+Detail-oriented Full Stack Developer with 3 years of experience building high-performance web applications <br>using the MERN stack. Skilled in designing scalable REST APIs, optimizing Oracle PL/SQL procedures, and <br>collaborating with Agile teams. Passionate about clean code, modern architecture, and solving real-world <br>problems. 
 
 
 ## 🌐 Socials:
